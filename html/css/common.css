@@ -1,0 +1,25 @@
+/*
+* @Author: chen
+* @Date:   2017-03-23 22:06:34
+* @Last Modified by:   chen
+* @Last Modified time: 2017-03-23 22:53:36
+*/
+.font-color-pink{
+	color: #ea6f5a;
+}
+.main-background{
+	background-color: #f1f1f1;
+}
+.font-bold{
+	font-weight: blod;
+	font-family: -apple-system,SF UI Display,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
+}
+.big-font{font-size: 3rem;}
+.normal-big-font{
+	font-size: 1.25rem;
+}
+.radius-normal{
+	border-radius: 2px;
+}
+
+/* cheliang */

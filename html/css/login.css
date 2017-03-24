@@ -1,0 +1,35 @@
+/*
+* @Author: chen
+* @Date:   2017-03-23 22:15:30
+* @Last Modified by:   chen
+* @Last Modified time: 2017-03-23 22:55:56
+*/
+.title{
+	margin-top: 58px;
+	margin-left: 52px;
+	width: auto;
+	height: auto;
+}
+.login-from{
+	width: 400px;
+	height: 557px;
+	background: #fff;
+	margin: 0 auto;
+	margin-top: 80px;
+	text-align: center;
+	overflow: hidden;
+}
+.login-from .login-from-bar{
+	height: 19px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+.login-from .login-from-bar b{
+	line-height: 50px;
+	padding: 10px;
+	font-size: 18px;
+}
+.login-from .login-from-bar span{
+	padding: 10px;
+	border-bottom: 3px solid #ea6f5a;
+}
